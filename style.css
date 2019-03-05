@@ -18,5 +18,14 @@ h3 {
     background: purple;
 }
 body{
-    background: #000;
+    background:white;
+}
+#navbar {
+    display: flex;
+
+}
+
+img {
+    width: 50%;
+    height: 50%;
 }
